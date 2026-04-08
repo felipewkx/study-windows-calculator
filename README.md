@@ -1,6 +1,8 @@
 ------------------------------
-## 🧮 Calculator
-Uma calculadora interativa desenvolvida para consolidar conceitos de lógica matemática, manipulação de eventos e design de interface (UI).
 
-O projeto simula as funções básicas de uma calculadora padrão do Windows.
-------------------------------
+## 🧮 Calculator
+An interactive calculator developed to consolidate concepts of mathematical logic, event handling, and user interface (UI) design.
+
+The project simulates the basic functions of a standard Windows calculator.
+
+-----------------------------
